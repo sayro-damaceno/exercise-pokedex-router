@@ -1,6 +1,6 @@
 import React from "react"
 import Location from "./Locations";
-import pokemons from "./data";
+import pokemons from "../data";
 
 
 

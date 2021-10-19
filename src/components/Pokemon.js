@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
-import './pokemon.css';
+import '../pokemon.css';
 
 class Pokemon extends React.Component {
   render() {
