@@ -1,3 +1,31 @@
 .App {
   text-align: center;
 }
+
+.maps {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
+.map {
+  margin: 10px;
+}
+
+.nav-bar {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-evenly;
+}
+
+.about-container {
+  width: 60%;
+  margin: auto;
+  margin-top: 100px;
+}
+
+.pokedex-img {
+  width: 300px;
+}
