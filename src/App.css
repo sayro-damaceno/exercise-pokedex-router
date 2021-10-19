@@ -1,3 +1,14 @@
 .App {
   text-align: center;
 }
+
+.maps {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
+.map {
+  margin: 10px;
+}
